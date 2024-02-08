@@ -1,0 +1,19 @@
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+    background-color: aqua;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.wrapper {
+    background-color: #190303 !important;
+    border-radius: 1em;
+    padding: 1em;
+}
